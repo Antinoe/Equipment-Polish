@@ -1,4 +1,4 @@
-#Equipment Polish
+# Equipment Polish
 A simple item that allows you to Reforge items by hand. Craft it using 25 Silver Coins or the Armor Polish accessory.
 
 
