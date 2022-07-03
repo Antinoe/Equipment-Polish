@@ -1,0 +1,34 @@
+﻿Heavily inspired by Split's Armor Polishing Kit, this mod adds a simple item that allows you to Reforge equipment by hand. Craft it using 2 Wood and 5 Silver Coins, 2 Wood and 1 Gold Coin for a stack of 20, or 1 Armor Polish accessory for a stack of 99.
+
+To use, Right Click the chosen item with an Equipment Polishing Kit in hand. A Reforge will be attempted. If the item is not a Weapon, Tool or Accessory, it cannot be Reforged.
+
+
+-Credits-
+-Destroyer Mob, jopojelly, absoluteAquarian and Aang: Helped me fix the "Stackable Prefixes" bug.
+
+
+-v0.1-
+-Initial build.
+
+-v0.2-
+-Changed the price of making an Equipment Polish Kit from 25 Silver Coins to 10 Silver Coins.
+-Fixed the "Stackable Prefixes" bug, thanks to Destroyer Mob, jopojelly, absoluteAquarian and Aang.
+-Changed the Tooltip, Rarity and Value of the Equipment Polish Kit.
+-Updated the Title and Description.
+-Changed the method of detection. Equipment Polish will now only work on accessories and items that deal damage.
+
+-v0.3-
+-Changed the item sprite to a simple recolor + reshade of the Armor Polish item. This may be improved in the future.
+-Changed the recipes. 2 Wood is now required, but the Work Bench is no longer a required Tile.
+-Added a new recipe, allowing Equipment Polish to also be crafted using 1 Gold Coin instead of 10 Silver Coins.
+
+-v0.4-
+-Slightly improved the item sprite.
+-Max Stack is now 99.
+-Crafting it through the Armor Polish accessory will now result in 99 of the item.
+-Changed the item's tooltip.
+
+-v0.4.1-
+-Any wood can now be used to craft the item.
+-Decreased the crafting price of the item. It was 10 Silver. It is now 5 Silver.
+-Improved the calculation for what items are affected.
